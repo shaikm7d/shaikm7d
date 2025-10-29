@@ -9,6 +9,37 @@ I'm now seeking opportunities as a Data Scientist, ML/AI Engineer or Data Analys
 
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1VOtfWSEYquR08bMvL9u4rQwKO-QTMevi/view?usp=drive_link)
 
+## 💼 Work Experience
+
+- ### [**Emerson Automation Solutions**](https://www.emerson.com/en-ae)
+  **Data Analyst and Automation Intern**  
+  📅 *Aug 2024 – Aug 2025*  
+  📍 *JAFZA South, Dubai*  
+
+  **Skills & Tools:**  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+  ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+  ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat&logo=powerapps&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+  ![Robocorp](https://img.shields.io/badge/Robocorp-00A9E0?style=flat&logo=robotframework&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange)
+
+- ### [**WorkerAppz Payments**](https://www.workerappz.com/)
+  **Summer Intern**  
+  📅 *Jul 2024 – Aug 2024*  
+  📍 *Business Bay, Dubai*  
+
+  **Skills & Tools:**  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+  ![CRM](https://img.shields.io/badge/CRM%20Systems-0A66C2?style=flat&logo=microsoft&logoColor=white)
+  ![Data Reconciliation](https://img.shields.io/badge/Data%20Reconciliation-0052CC?style=flat&logo=databricks&logoColor=white)
+  ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4B8BBE?style=flat&logo=python&logoColor=white)
+  ![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-009688?style=flat&logo=tableau&logoColor=white)
+  ![Business Analytics](https://img.shields.io/badge/Business%20Analytics-FF6F00?style=flat&logo=google-analytics&logoColor=white)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/shaikm7d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thaf" height="30" width="40" /></a>
