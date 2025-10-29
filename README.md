@@ -7,6 +7,12 @@ I'm now seeking opportunities as a Data Scientist, ML/AI Engineer or Data Analys
 
 - 📫 Feel free to contact me at: **shaikm7d@gmail.com**
 
+## 🎓 Education
+
+- ### [**Heriot Watt University Dubai**](https://www.hw.ac.uk)
+  **BSc (Hons) in Data Sciences**  
+  📅 *Graduated in Sep 2025*
+
 ## 💼 Work Experience
 
 - ### [**Emerson Automation Solutions**](https://www.emerson.com/en-ae)
