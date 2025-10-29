@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Shaik Mohammed</h1>
-<h3 align="center"> BSc (Hons) Data Sciences Graduate | Ex-Emerson Data Analyst and Automation Intern </h3>
+<h3 align="center"> BSc (Hons) Data Sciences Graduate 🎓 | Ex-Emerson Data Analyst and Automation Intern 👨‍💻 </h3>
 
 I'm an analytical problem‑solver with a lifelong passion for mathematics and data‑driven strategy. At a Fortune 500 industrial automation leader, I leveraged data analytics and machine learning to transform complex data into actionable strategies that drove measurable business results.
   
 I'm now seeking opportunities as a Data Scientist, ML/AI Engineer or Data Analyst, where I can continue applying data-driven approaches to solve critical business challenges and accelerate growth.
 
 - 📫 Feel free to contact me at: **shaikm7d@gmail.com**
-
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1VOtfWSEYquR08bMvL9u4rQwKO-QTMevi/view?usp=drive_link)
 
 ## 💼 Work Experience
 
