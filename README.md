@@ -44,6 +44,12 @@ I'm now seeking opportunities as a Data Scientist, ML/AI Engineer or Data Analys
   ![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-009688?style=flat&logo=tableau&logoColor=white)
   ![Business Analytics](https://img.shields.io/badge/Business%20Analytics-FF6F00?style=flat&logo=google-analytics&logoColor=white)
 
+## 💻 Projects  
+
+| Project | Description | Tools & Tech |
+|:--------|:-------------|:-------------|
+| [**Multivariate Statistical Analysis of Medical and Pollution Data**](https://github.com/shaikm7d/multivariate-statistical-analysis-of-Medical-and-Pollution-Data) | Hotelling’s T² test, MANOVA, and K-Means clustering after systematic data cleaning and visualization | R |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shaikm7d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thaf" height="30" width="40" /></a>
