@@ -50,7 +50,7 @@ I'm now seeking opportunities as a Data Scientist, ML/AI Engineer or Data Analys
 |:--|:--------|:-------------|:-------------|
 | 01 | [**Multivariate Statistical Analysis of Medical and Pollution Data**](https://github.com/shaikm7d/multivariate-statistical-analysis-of-Medical-and-Pollution-Data) | Hotelling’s T² test, MANOVA, and K-Means clustering performed on medical and pollution dataset after systematic data cleaning and visualization | R |
 | 02 | [**Credit Card Fraud Detection with Machine Learning**](https://github.com/shaikm7d/Credit-Card-Fraud-Detection-with-Machine-Learning) | Developed and evaluated baseline machine learning models for credit card fraud detection using Decision Tree and a scratch implementation of K-NN | Python (Sklearn and FAISS) |
-| 03 | [**Inflation Forecasting using ARIMA**](https://github.com/shaikm7d/Inflation-Forecasting-using-ARIMA) | Forecasted the Inflation Rate (%) using ARIMA (AutoRegressive Integrated Moving Average) models | R |
+| 03 | [**Inflation Forecasting using ARIMA**](https://github.com/shaikm7d/Inflation-Forecasting-using-ARIMA) | Forecasted the Inflation Rate (%) using different ARIMA models | R |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
